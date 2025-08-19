@@ -1,12 +1,10 @@
-# adv_basics
+# Quiz App 🎯
+A simple quiz app built with Flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Multiple choice questions
+- Score tracking
+- Clean UI
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
